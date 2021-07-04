@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damienld
 - 👀 I’m interested in Data Science and Sports
-- 🌱 I’m currently learning Machine Learning Engineering after completing a Data Scientist training.
+- 🌱 I’m currently learning Machine Learning Engineering after completing training as a Data Scientist.
 - 💞️ I have developped various projects like https://datamotogp.eu/
 
 <!---
